@@ -1,6 +1,6 @@
 const buttons = document.querySelectorAll('.btn');
 const currentStatus = document.getElementById('current-status');
-const API_URL = "http://3.231.162.196/api/devices";
+const API_URL = "http://3.239.79.162/api/devices";
 
 let publicIP = "";
 
